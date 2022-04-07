@@ -1,0 +1,21 @@
+mencoba git ke satu
+
+echo "# datset" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rondi91/datset.git
+git push -u origin main
+
+
+git remote add origin https://github.com/rondi91/datset.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+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
